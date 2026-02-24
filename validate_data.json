@@ -1,0 +1,1674 @@
+{
+    "Departure": "DEL",
+    "Arrival": "BOM",
+    "Date": "March 02, 2026",
+    "minimum_travel_price": 5000,
+    "maximum_travel_price": 17308,
+    "stop_wise_fare": [
+        {
+            "stops": "Non-Stop",
+            "fare": 5000
+        },
+        {
+            "stops": "1 Stop",
+            "fare": 5501
+        },
+        {
+            "stops": "2+ Stops",
+            "fare": 0
+        }
+    ],
+    "airport_details": {
+        "BOM": {
+            "airport_name": "Mumbai Chhatrapati Shivaji International Airport",
+            "city": "Mumbai"
+        },
+        "HDO": {
+            "airport_name": "Hindon Airport",
+            "city": "Ghaziabad"
+        },
+        "DEL": {
+            "airport_name": "Delhi Indira Gandhi International Airport",
+            "city": "New Delhi"
+        },
+        "NMI": {
+            "airport_name": "Navi Mumbai",
+            "city": "Navi Mumbai"
+        }
+    },
+    "pictures_url ": "https://images.ixigo.com/image/upload/assured-srp-banner/aceef7d28b49c164d31819481b58f6f5-ghfvp.png",
+    "flightDetails": [
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BDQ-6E6769-02032026*BDQ-BOM-6E6087-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "04:50 EARLY_MORNING",
+            "end_timing": "09:05 MORNING",
+            "total_duration": "4h 15m",
+            "plane_change": {
+                "location": "Vadodara",
+                "duration": "1h 25m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2975-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "06:25 MORNING",
+            "end_timing": "08:45 MORNING",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-HYD-AI2577-02032026*HYD-BOM-AI2872-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 14018,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "03:00 EARLY_MORNING",
+            "end_timing": "07:40 MORNING",
+            "total_duration": "4h 40m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "45m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2999-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6099,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "22:00 NIGHT",
+            "end_timing": "00:25 EARLY_MORNING",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-HYD-6E2255-02032026*HYD-BOM-6E5213-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "04:45 EARLY_MORNING",
+            "end_timing": "09:50 MORNING",
+            "total_duration": "5h 5m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "1h 20m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-LKO-AI9447-02032026*LKO-BOM-AI2492-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 14434,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "04:30 EARLY_MORNING",
+            "end_timing": "16:40 AFTERNOON",
+            "total_duration": "12h 10m",
+            "plane_change": {
+                "location": "Lucknow",
+                "duration": "8h 5m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI1745-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6099,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "05:25 EARLY_MORNING",
+            "end_timing": "07:50 MORNING",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-JDH-AI9868-02032026*JDH-BOM-AI2748-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 9275,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "08:30 MORNING",
+            "end_timing": "15:15 AFTERNOON",
+            "total_duration": "6h 45m",
+            "plane_change": {
+                "location": "Jodhpur",
+                "duration": "3h 50m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E395-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6326,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "21:00 NIGHT",
+            "end_timing": "23:25 NIGHT",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI1736-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "17:30 AFTERNOON",
+            "end_timing": "20:00 NIGHT",
+            "total_duration": "2h 30m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2941-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "16:30 AFTERNOON",
+            "end_timing": "19:00 NIGHT",
+            "total_duration": "2h 30m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-HYD-6E247-02032026*HYD-BOM-6E791-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "14:00 AFTERNOON",
+            "end_timing": "18:50 NIGHT",
+            "total_duration": "4h 50m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "1h"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-HYD-6E6019-02032026*HYD-BOM-6E5099-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "10:45 MORNING",
+            "end_timing": "16:05 AFTERNOON",
+            "total_duration": "5h 20m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "1h 30m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6318-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "16:00 AFTERNOON",
+            "end_timing": "18:20 NIGHT",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2437-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6099,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "22:30 NIGHT",
+            "end_timing": "00:55 EARLY_MORNING",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6218-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "06:05 MORNING",
+            "end_timing": "08:15 MORNING",
+            "total_duration": "2h 10m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-HYD-AI2899-02032026*HYD-BOM-AI2447-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 10577,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "12:30 AFTERNOON",
+            "end_timing": "19:25 NIGHT",
+            "total_duration": "6h 55m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "2h 40m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-HSR-6E6557-02032026*HSR-BOM-6E6132-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6309,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "05:40 EARLY_MORNING",
+            "end_timing": "10:10 MORNING",
+            "total_duration": "4h 30m",
+            "plane_change": {
+                "location": "Hirasar",
+                "duration": "1h 30m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-JAI-AI2761-02032026*JAI-BOM-AI9719-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 17003,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "15:25 AFTERNOON",
+            "end_timing": "20:30 NIGHT",
+            "total_duration": "5h 5m",
+            "plane_change": {
+                "location": "Jaipur",
+                "duration": "2h 15m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-IXC-AI2601-02032026*IXC-BOM-AI2784-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 12234,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "17:00 AFTERNOON",
+            "end_timing": "22:30 NIGHT",
+            "total_duration": "5h 30m",
+            "plane_change": {
+                "location": "Chandigarh",
+                "duration": "1h 40m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI441-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "17:05 AFTERNOON",
+            "end_timing": "19:35 NIGHT",
+            "total_duration": "2h 30m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E2157-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6326,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "09:00 MORNING",
+            "end_timing": "11:15 MORNING",
+            "total_duration": "2h 15m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-IDR-AI9674-02032026*IDR-BOM-AI2592-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 11953,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "06:20 MORNING",
+            "end_timing": "18:05 NIGHT",
+            "total_duration": "11h 45m",
+            "plane_change": {
+                "location": "Indore",
+                "duration": "8h 30m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-JDH-AI9868-02032026*JDH-BOM-AI646-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 9275,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "08:30 MORNING",
+            "end_timing": "13:55 AFTERNOON",
+            "total_duration": "5h 25m",
+            "plane_change": {
+                "location": "Jodhpur",
+                "duration": "2h 15m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-MAA-AI2885-02032026*MAA-BOM-AI2828-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 16287,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "02:10 EARLY_MORNING",
+            "end_timing": "08:15 MORNING",
+            "total_duration": "6h 5m",
+            "plane_change": {
+                "location": "Chennai",
+                "duration": "1h 20m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-JAI-6E170-02032026*JAI-BOM-6E5324-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 8921,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "16:00 AFTERNOON",
+            "end_timing": "20:50 NIGHT",
+            "total_duration": "4h 50m",
+            "plane_change": {
+                "location": "Jaipur",
+                "duration": "2h 10m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6787-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 7481,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "00:30 EARLY_MORNING",
+            "end_timing": "02:45 EARLY_MORNING",
+            "total_duration": "2h 15m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E810-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "18:00 NIGHT",
+            "end_timing": "20:25 NIGHT",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-IXC-AI2601-02032026*IXC-BOM-AI472-03032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 11534,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "17:00 AFTERNOON",
+            "end_timing": "11:25 MORNING",
+            "total_duration": "18h 25m",
+            "plane_change": {
+                "location": "Chandigarh",
+                "duration": "14h 55m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-JAI-6E5037-02032026*JAI-BOM-6E5035-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "04:45 EARLY_MORNING",
+            "end_timing": "09:10 MORNING",
+            "total_duration": "4h 25m",
+            "plane_change": {
+                "location": "Jaipur",
+                "duration": "1h 40m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-IDR-AI9418-02032026*IDR-BOM-AI2592-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 11953,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "13:10 AFTERNOON",
+            "end_timing": "18:05 NIGHT",
+            "total_duration": "4h 55m",
+            "plane_change": {
+                "location": "Indore",
+                "duration": "1h 50m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-JAI-AI1719-02032026*JAI-BOM-AI9717-03032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 8231,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "12:00 AFTERNOON",
+            "end_timing": "12:10 AFTERNOON",
+            "total_duration": "24h 10m",
+            "plane_change": {
+                "location": "Jaipur",
+                "duration": "21h 10m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-HYD-6E6776-02032026*HYD-BOM-6E5061-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "15:30 AFTERNOON",
+            "end_timing": "20:55 NIGHT",
+            "total_duration": "5h 25m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "1h 25m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-HYD-AI2465-02032026*HYD-BOM-AI2699-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 9790,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "14:30 AFTERNOON",
+            "end_timing": "00:10 EARLY_MORNING",
+            "total_duration": "9h 40m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "5h 30m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E354-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "19:00 NIGHT",
+            "end_timing": "21:25 NIGHT",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E864-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "17:00 AFTERNOON",
+            "end_timing": "19:25 NIGHT",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-AMD-AI2715-02032026*AMD-BOM-AI2504-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 17308,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "11:30 MORNING",
+            "end_timing": "16:35 AFTERNOON",
+            "total_duration": "5h 5m",
+            "plane_change": {
+                "location": "Ahmedabad",
+                "duration": "1h 35m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-NMI-6E6346-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5000,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "06:40 MORNING",
+            "end_timing": "08:45 MORNING",
+            "total_duration": "2h 5m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-HYD-AI1708-02032026*HYD-BOM-AI2445-03032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 13889,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "19:30 NIGHT",
+            "end_timing": "16:10 AFTERNOON",
+            "total_duration": "20h 40m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "16h 35m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6676-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 10526,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "13:50 AFTERNOON",
+            "end_timing": "16:10 AFTERNOON",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2951-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6301,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "13:20 AFTERNOON",
+            "end_timing": "15:45 AFTERNOON",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-IXC-AI1742-02032026*IXC-BOM-AI472-03032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 14230,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "20:00 NIGHT",
+            "end_timing": "11:25 MORNING",
+            "total_duration": "15h 25m",
+            "plane_change": {
+                "location": "Chandigarh",
+                "duration": "11h 50m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-JAI-AI9729-02032026*JAI-BOM-AI2782-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 8759,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "05:50 EARLY_MORNING",
+            "end_timing": "15:40 AFTERNOON",
+            "total_duration": "9h 50m",
+            "plane_change": {
+                "location": "Jaipur",
+                "duration": "6h 50m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6114-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6326,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "22:15 NIGHT",
+            "end_timing": "00:50 EARLY_MORNING",
+            "total_duration": "2h 35m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2441-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6301,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "14:00 AFTERNOON",
+            "end_timing": "16:35 AFTERNOON",
+            "total_duration": "2h 35m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E675-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "08:00 MORNING",
+            "end_timing": "10:10 MORNING",
+            "total_duration": "2h 10m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2429-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 7557,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "07:05 MORNING",
+            "end_timing": "09:15 MORNING",
+            "total_duration": "2h 10m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2945-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6422,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "11:00 MORNING",
+            "end_timing": "13:20 AFTERNOON",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2433-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6099,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "21:30 NIGHT",
+            "end_timing": "23:55 NIGHT",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-JAI-AI1767-02032026*JAI-BOM-AI9717-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 13594,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "07:10 MORNING",
+            "end_timing": "12:10 AFTERNOON",
+            "total_duration": "5h",
+            "plane_change": {
+                "location": "Jaipur",
+                "duration": "2h 15m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2439-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6099,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "23:00 NIGHT",
+            "end_timing": "01:25 EARLY_MORNING",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2678-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "08:35 MORNING",
+            "end_timing": "10:50 MORNING",
+            "total_duration": "2h 15m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-JAI-AI9729-02032026*JAI-BOM-AI414-03032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6983,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "05:50 EARLY_MORNING",
+            "end_timing": "08:05 MORNING",
+            "total_duration": "26h 15m",
+            "plane_change": {
+                "location": "Jaipur",
+                "duration": "23h 15m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2981-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6099,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "21:00 NIGHT",
+            "end_timing": "23:20 NIGHT",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI1785-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6422,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "12:00 AFTERNOON",
+            "end_timing": "14:20 AFTERNOON",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-HYD-AI1708-02032026*HYD-BOM-AI418-03032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 13889,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "19:30 NIGHT",
+            "end_timing": "13:20 AFTERNOON",
+            "total_duration": "17h 50m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "13h 40m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6773-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "20:00 NIGHT",
+            "end_timing": "22:20 NIGHT",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6051-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "12:45 AFTERNOON",
+            "end_timing": "15:05 AFTERNOON",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6047-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "11:30 MORNING",
+            "end_timing": "14:05 AFTERNOON",
+            "total_duration": "2h 35m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-JAI-AI1719-02032026*JAI-BOM-AI414-03032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 8651,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "12:00 AFTERNOON",
+            "end_timing": "08:05 MORNING",
+            "total_duration": "20h 5m",
+            "plane_change": {
+                "location": "Jaipur",
+                "duration": "17h"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-HYD-AI2899-02032026*HYD-BOM-AI2699-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 9790,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "12:30 AFTERNOON",
+            "end_timing": "00:10 EARLY_MORNING",
+            "total_duration": "11h 40m",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "7h 30m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-AMD-6E6792-02032026*AMD-BOM-6E132-03032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 7353,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "22:10 NIGHT",
+            "end_timing": "02:55 EARLY_MORNING",
+            "total_duration": "4h 45m",
+            "plane_change": {
+                "location": "Ahmedabad",
+                "duration": "1h 25m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-AMD-6E5317-02032026*AMD-BOM-6E6794-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6873,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "18:50 NIGHT",
+            "end_timing": "00:10 EARLY_MORNING",
+            "total_duration": "5h 20m",
+            "plane_change": {
+                "location": "Ahmedabad",
+                "duration": "2h 10m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-KNU-6E2230-02032026*KNU-BOM-6E5083-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "12:50 AFTERNOON",
+            "end_timing": "17:30 AFTERNOON",
+            "total_duration": "4h 40m",
+            "plane_change": {
+                "location": "Kanpur",
+                "duration": "1h 15m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6022-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "15:00 AFTERNOON",
+            "end_timing": "17:20 AFTERNOON",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-AMD-6E6732-02032026*AMD-BOM-6E6794-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 8921,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "19:55 NIGHT",
+            "end_timing": "00:10 EARLY_MORNING",
+            "total_duration": "4h 15m",
+            "plane_change": {
+                "location": "Ahmedabad",
+                "duration": "1h 5m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-LKO-AI9759-02032026*LKO-BOM-AI2492-03032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 13275,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "22:45 NIGHT",
+            "end_timing": "16:40 AFTERNOON",
+            "total_duration": "17h 55m",
+            "plane_change": {
+                "location": "Lucknow",
+                "duration": "14h 5m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-AMD-6E163-02032026*AMD-NMI-6E836-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5501,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "09:15 MORNING",
+            "end_timing": "13:00 AFTERNOON",
+            "total_duration": "3h 45m",
+            "plane_change": {
+                "location": "Ahmedabad",
+                "duration": "1h"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2995-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6422,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "10:00 MORNING",
+            "end_timing": "12:25 AFTERNOON",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2977-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "19:00 NIGHT",
+            "end_timing": "21:30 NIGHT",
+            "total_duration": "2h 30m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-HYD-6E850-02032026*HYD-BOM-6E5003-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "18:30 NIGHT",
+            "end_timing": "23:30 NIGHT",
+            "total_duration": "5h",
+            "plane_change": {
+                "location": "Hyderabad",
+                "duration": "1h"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2592-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6900,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "14:25 AFTERNOON",
+            "end_timing": "18:05 NIGHT",
+            "total_duration": "3h 40m",
+            "plane_change": {
+                "location": "Indore",
+                "duration": "35m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-AMD-6E2033-02032026*AMD-BOM-6E6712-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "07:10 MORNING",
+            "end_timing": "11:40 MORNING",
+            "total_duration": "4h 30m",
+            "plane_change": {
+                "location": "Ahmedabad",
+                "duration": "1h 20m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E2766-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "04:00 EARLY_MORNING",
+            "end_timing": "06:20 MORNING",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6328-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "10:00 MORNING",
+            "end_timing": "12:15 AFTERNOON",
+            "total_duration": "2h 15m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E519-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6326,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "23:30 NIGHT",
+            "end_timing": "01:55 EARLY_MORNING",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-IXU-6E6474-02032026*IXU-BOM-6E5383-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "16:55 AFTERNOON",
+            "end_timing": "22:10 NIGHT",
+            "total_duration": "5h 15m",
+            "plane_change": {
+                "location": "Aurangabad",
+                "duration": "2h 30m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-NAG-6E6820-02032026*NAG-BOM-6E5174-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "04:40 EARLY_MORNING",
+            "end_timing": "09:50 MORNING",
+            "total_duration": "5h 10m",
+            "plane_change": {
+                "location": "Nagpur",
+                "duration": "1h 45m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-VNS-AI2623-02032026*VNS-BOM-AI9519-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 16143,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "13:35 AFTERNOON",
+            "end_timing": "19:05 NIGHT",
+            "total_duration": "5h 30m",
+            "plane_change": {
+                "location": "Varanasi",
+                "duration": "1h 15m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2425-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6422,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "10:55 MORNING",
+            "end_timing": "13:15 AFTERNOON",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI1777-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "16:00 AFTERNOON",
+            "end_timing": "18:35 NIGHT",
+            "total_duration": "2h 35m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BDQ-AI1701-02032026*BDQ-BOM-AI2892-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 13141,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "05:20 EARLY_MORNING",
+            "end_timing": "09:25 MORNING",
+            "total_duration": "4h 5m",
+            "plane_change": {
+                "location": "Vadodara",
+                "duration": "1h"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2805-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6600,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "20:00 NIGHT",
+            "end_timing": "22:25 NIGHT",
+            "total_duration": "2h 25m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-JAI-AI9729-02032026*JAI-BOM-AI2502-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6983,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per piece, 1 piece per adult"
+            },
+            "stops": 1,
+            "start_timing": "05:50 EARLY_MORNING",
+            "end_timing": "10:05 MORNING",
+            "total_duration": "4h 15m",
+            "plane_change": {
+                "location": "Jaipur",
+                "duration": "1h 15m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2955-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "18:00 NIGHT",
+            "end_timing": "20:20 NIGHT",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-LKO-6E6018-02032026*LKO-BOM-6E5201-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 14781,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "19:10 NIGHT",
+            "end_timing": "00:15 EARLY_MORNING",
+            "total_duration": "5h 5m",
+            "plane_change": {
+                "location": "Lucknow",
+                "duration": "1h 20m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-AMD-AI817-02032026*AMD-BOM-AI494-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 12336,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "05:45 EARLY_MORNING",
+            "end_timing": "10:30 MORNING",
+            "total_duration": "4h 45m",
+            "plane_change": {
+                "location": "Ahmedabad",
+                "duration": "1h 10m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2927-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6422,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "09:30 MORNING",
+            "end_timing": "12:00 AFTERNOON",
+            "total_duration": "2h 30m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E449-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "05:00 EARLY_MORNING",
+            "end_timing": "07:15 MORNING",
+            "total_duration": "2h 15m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2933-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "15:30 AFTERNOON",
+            "end_timing": "17:45 AFTERNOON",
+            "total_duration": "2h 15m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-LKO-6E2172-02032026*LKO-BOM-6E6222-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "13:15 AFTERNOON",
+            "end_timing": "18:20 NIGHT",
+            "total_duration": "5h 5m",
+            "plane_change": {
+                "location": "Lucknow",
+                "duration": "1h 15m"
+            }
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2985-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "19:40 NIGHT",
+            "end_timing": "22:10 NIGHT",
+            "total_duration": "2h 30m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "HDO-BOM-6E983-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5261,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "11:45 MORNING",
+            "end_timing": "14:00 AFTERNOON",
+            "total_duration": "2h 15m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-IDR-6E6212-02032026*IDR-BOM-6E5053-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5796,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "05:35 EARLY_MORNING",
+            "end_timing": "09:35 MORNING",
+            "total_duration": "4h",
+            "plane_change": {
+                "location": "Indore",
+                "duration": "1h 10m"
+            }
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-NMI-6E6210-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 5628,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "17:15 AFTERNOON",
+            "end_timing": "19:15 NIGHT",
+            "total_duration": "2h",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2957-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6147,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "20:30 NIGHT",
+            "end_timing": "23:05 NIGHT",
+            "total_duration": "2h 35m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-BOM-AI2963-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6422,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "09:00 MORNING",
+            "end_timing": "11:20 MORNING",
+            "total_duration": "2h 20m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "IndiGo",
+            "flight_id": "DEL-BOM-6E6814-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 6011,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 0,
+            "start_timing": "07:05 MORNING",
+            "end_timing": "09:15 MORNING",
+            "total_duration": "2h 10m",
+            "plane_change": {}
+        },
+        {
+            "airline_name": "Air India",
+            "flight_id": "DEL-VGA-AI2571-02032026*VGA-BOM-AI599-02032026",
+            "refundable": "PARTIALLY_REFUNDABLE",
+            "fare": 15296,
+            "baggage": {
+                "checkInBaggage": "15 kg per adult",
+                "handBaggage": "7 kg per adult (1 piece only)"
+            },
+            "stops": 1,
+            "start_timing": "05:45 EARLY_MORNING",
+            "end_timing": "20:30 NIGHT",
+            "total_duration": "14h 45m",
+            "plane_change": {
+                "location": "Vijayawada",
+                "duration": "10h"
+            }
+        }
+    ]
+}
