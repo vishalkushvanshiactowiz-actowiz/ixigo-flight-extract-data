@@ -1,28 +1,4 @@
 
-# airline name headerTextWeb
-# flightKeys flight id
-# refundableType
-# displayFare
-# baggageDetails
-# stops
-# departureTime + departTime -- start time
-# arrivalTime +  arrivalTime -- end time
-# text -- total duration
-# "origin": "DEL",
-#                     "destination": "BOM",
-#                     "date""
-
-# departureAirport": "DEL",  start
-#                                 "arrivalAirport  end
-
-# minPrice
-# maxPrice
-# stopsFilter stop wise fare
-# airportDetails
-# bannerUrl
-
-
-
 import json
 from datetime import datetime
 
